@@ -1,0 +1,19 @@
+{
+  "name": "funfone-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minigodzilla/funfone-app.git"
+  },
+  "author": "Steve Diabo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minigodzilla/funfone-app/issues"
+  },
+  "homepage": "https://github.com/minigodzilla/funfone-app#readme"
+}
